@@ -1,0 +1,22 @@
+*{
+	font-family: 'Open Sans', sans-serif;
+}
+
+p{
+	font-family: 'Poiret One', cursive;
+}
+
+img{
+	height: 60px;
+	width: 60px;
+	margin: 5px;
+}
+
+#gatito{
+	width: 300px;
+	height: 300px;
+}
+
+.redesSociales{
+	padding: 10px;
+}
